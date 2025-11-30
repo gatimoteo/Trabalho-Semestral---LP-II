@@ -1,5 +1,5 @@
 
-# RestoUni – REST API em Java 17 sem frameworks
+# TRABALHO SEMESTRAL - LINGUAGEM DE PROGRAMAÇÃO II
 
 Aplicação REST em **Java 17** usando apenas o **JDK** (HTTP Server via `com.sun.net.httpserver`), **JDBC** e **H2** como banco embarcado. Implementa CRUD para **Curso** e **Aula**, com relacionamento **1..N** (um Curso possui várias Aulas).
 
